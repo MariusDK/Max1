@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="maxim1">
+    <output-path>$PROJECT_DIR$/out/artifacts/maxim1</output-path>
+    <root id="archive" name="maxim1.war">
+      <element id="javaee-facet-resources" facet="Max1/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Max1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
